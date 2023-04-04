@@ -32,7 +32,7 @@ Run the script by entering the following command in your terminal:
 ```
 dalle <prompt> [--medium | --large]
 ```
-<prompt>: The text prompt that describes the image you want to generate.
+`<prompt>`: The text prompt that describes the image you want to generate.
 --medium: (Optional) Generate a 512x512 image. If not specified, the default size is 256x256.
 --large: (Optional) Generate a 1024x1024 image. If not specified, the default size is 256x256.
 
